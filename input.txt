@@ -1,0 +1,2 @@
+Hello, this is my input file.
+It will be modified by Python.
